@@ -1,0 +1,63 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta name="Excel Workbook Frameset">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2026-08-21T10:16:38</o:Created>
+     <o:LastAuthor>Darkhan Mashirapov</o:LastAuthor>
+     <o:LastSaved>2026-08-25T12:30:05</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">1033-12.1.26050.26050</o:KSOProductBuildVer>
+     <o:CalculationRule dt:dt="float">0.0</o:CalculationRule>
+     <o:ICV dt:dt="string">8FB00782C9E216CEC2E0876A991F9212_42</o:ICV>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <link rel="File-List" href="Industrial production index Kazakhstan.files/filelist.xml">
+  <link id="shLink" href="Industrial production index Kazakhstan.files/sheet001.htm">
+  <link id="shLink" href="Industrial production index Kazakhstan.files/sheet002.htm">
+  <link id="shLink" href="Industrial production index Kazakhstan.files/sheet003.htm">
+  <script src="Industrial production index Kazakhstan.files/js.js"></script>
+  <script type="text/javascript">window.g_iIEVer=fnGetIEVer();fnBuildFrameset(2);</script>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>W3C Example Table</x:Name>
+       <x:WorksheetSource HRef="Industrial production index Kazakhstan.files/sheet001.htm"/>
+      </x:ExcelWorksheet>
+      <x:ExcelWorksheet>
+       <x:Name>Final Clea</x:Name>
+       <x:WorksheetSource HRef="Industrial production index Kazakhstan.files/sheet002.htm"/>
+      </x:ExcelWorksheet>
+      <x:ExcelWorksheet>
+       <x:Name>Sheet1</x:Name>
+       <x:WorksheetSource HRef="Industrial production index Kazakhstan.files/sheet003.htm"/>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:Stylesheet HRef="Industrial production index Kazakhstan.files/stylesheet.css"/>
+     <x:ActiveSheet>2</x:ActiveSheet>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>11300</x:WindowHeight>
+     <x:WindowWidth>27660</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <frameset rows="*,36" border="0" width="0" frameborder="no">
+  <frame src="Industrial production index Kazakhstan.files/sheet003.htm" name="frSheet" noresize/>
+  <frame src="Industrial production index Kazakhstan.files/tabstrip.htm" name="frTabs" marginwidth="0" marginheight="0"/>
+  <noframes>
+   <body>
+    <p>此页面使用了框架，而您的浏览器不支持框架</p>
+   </body>
+  </noframes>
+ </frameset>
+</html>
